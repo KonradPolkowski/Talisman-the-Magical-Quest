@@ -1,4 +1,4 @@
-
+#
 class Mobs():
     def __init__(self, name="name", life=0, strength=0, magic=0, gold=0, STRexp=0, Mexp=0):
         self.name = name

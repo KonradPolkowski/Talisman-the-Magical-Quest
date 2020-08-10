@@ -11,6 +11,7 @@ class Score_Fight():
         d = print("you have", playerHero[1], "life's")
 
         return a, b, c, d
+#
 
     def WinSTR(self, playerHero, monster):
         a = print("VICTORY")

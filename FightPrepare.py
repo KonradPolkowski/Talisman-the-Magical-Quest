@@ -1,4 +1,4 @@
-
+#
 class Fight_Prepare():
     def __init__(self, monster=[], monsterPower=1, playerHero=[], playerPower=1):
         self.monster = monster

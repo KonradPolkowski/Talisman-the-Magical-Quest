@@ -30,3 +30,4 @@ class Words():
         answer = input(
             "for SHOP press 1\nfor FIGHTER press 2\nfor APPRENTICE press 3\nfor EXIT press 4\n: ")
         return answer
+#

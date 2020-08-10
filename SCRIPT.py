@@ -2,7 +2,7 @@ from Randoms import Randoms
 from Words import Words
 from FightPrepare import Fight_Prepare
 from ScoreFight import Score_Fight
-
+#
 
 randoms = Randoms()
 words = Words()
